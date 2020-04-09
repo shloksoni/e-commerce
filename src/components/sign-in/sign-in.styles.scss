@@ -1,0 +1,20 @@
+.sign-in{
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+
+    .title{
+        margin: 10px 0px;
+    }
+    .buttons{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+   
+    .google{
+        
+        height: 90%;
+        align-self: center;
+    }
+}
